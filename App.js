@@ -7,7 +7,7 @@ export default function App() {
     <WebView
       style={styles.container}
       source={{ uri: 'https://lockandrock.netlify.app/' }}
-      /*
+      
       <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -301,7 +301,7 @@ export default function App() {
     </script>
 </body>
 </html>
-*/
+
     />
   );
 }
